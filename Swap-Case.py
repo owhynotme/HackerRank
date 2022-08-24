@@ -7,4 +7,3 @@ def swap_case(s):
             i = i.upper()
         st += "".join(i)
     return st
-c
